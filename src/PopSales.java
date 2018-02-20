@@ -13,16 +13,17 @@ import java.io.*;
  * CJKisling™
  * 
  * This is an update
- *yaaaasss
+ *this Changed
+ *
+ *
+ *there is more comments 
  * 
+ *I deleted some stuff too so changes
  * Date: 2/7/2018
  */
 public class PopSales {
 	//Variables
-	static SimpleDateFormat simpleDF;
-	static Scanner fileScanner, scanner;
-	static DecimalFormat df6v2;
-	static Date today;
+	
 	static PrintWriter pw;
 	static PrintWriter errPw;
 	static String iFName, iLName, iAdress, iCity, iState, iZip, iTeam, iPopType, iCases, vError, oPopType;
